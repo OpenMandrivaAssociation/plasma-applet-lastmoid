@@ -1,7 +1,7 @@
 Name:           plasma-applet-lastmoid
 Summary:        Lastmoid is a plasmoid for LastFm users
 Version:        0.6.5
-Release:        %mkrel 1
+Release:        %mkrel 2
 Url:            http://kde-look.org/content/show.php/Lastmoid?content=98117
 License:        GPLv2+
 Group:          Graphical desktop/KDE
